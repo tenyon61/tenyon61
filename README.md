@@ -9,9 +9,9 @@ Time for art, sincere ambition into technology. Connect with me here -
 
 My blog here ~
 
-[![Blog](https://api.oss.tenyon.cn/tenyon/assets/icon/avatar-32.png)](https://tenyon.cn)
-[![掘金](https://api.oss.tenyon.cn/tenyon/assets/icon/juejin.png)](https://juejin.cn/user/776699375262679)
-[![CSDN](https://api.oss.tenyon.cn/tenyon/assets/icon/csdn.png)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
+[![Blog](https://api.oss.cqbo.com/tenyon/assets/icon/avatar-32.png)](https://tenyon.cn)
+[![掘金](https://api.oss.cqbo.com/tenyon/assets/icon/juejin.png)](https://juejin.cn/user/776699375262679)
+[![CSDN](https://api.oss.cqbo.com/tenyon/assets/icon/csdn.png)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
 
 
 
