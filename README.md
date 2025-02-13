@@ -118,7 +118,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/tenyon61
 
 <br/>
 <div align="center">
-  <a href="https://api.oss.tenyon.cn/tenyon/assets/qrcode_donate.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://api.oss.cqbo.com/tenyon/assets/qrcode_donate.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
